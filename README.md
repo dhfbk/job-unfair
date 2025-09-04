@@ -24,7 +24,7 @@ All files are in TSV format.
   - `jobs-identity-terms-en.tsv`, `jobs-identity-terms-it.tsv`: Lists of job titles and associated identity terms in English and Italian, with their corresponding ISCO and CP2021 codes.
 - **manually-annotated-data/**
   - `all-annotations-en.tsv`, `all-annotations-it.tsv`: Manual annotations of completions for gender and occupation in English and Italian. Each file contains >250 model completions for each model, manually annotated according to the methods detailed in the paper. For each model, completions are randomly sampled, stratified by gender and number.
-- **model-completions/clean-completions/**
+- **model-completions/**
   - `CLEAN-completions-*.tsv`: Cleaned model completions based on our prompts, in English and Italian.
 - **prompt-templates/**
   - `templates-en-singular.tsv`, `templates-it.tsv`: Prompt templates used for generating completions.
