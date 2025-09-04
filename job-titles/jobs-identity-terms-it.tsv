@@ -2703,7 +2703,7 @@ ISCO 08	CP2021	unique ID	ID	identity term	toxicity	number	word's gender	gender s
 541	5.6.1.1.0	725_2-s-n-i-it	725_2	il personale di guardiania territoriale	toxic free	singular	neutral	innate	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.2.0	725_3-sp-n-*-it	725_3	l* vigil* urban*	toxic free	singular, plural	neutral	*	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.2.0	725_3-s-m-b-it	725_3	il vigile urbano	toxic free	singular	male	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
-541	5.6.1.2.0	725_3-s-f-b-it	725_3	la vigilessa urbana	toxic free	singular	female	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
+541	5.6.1.2.0	725_3-s-f-b-it	725_3	la vigile urbana	toxic free	singular	female	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.2.0	725_3-p-m-b-it	725_3	i vigili urbani	toxic free	plural	male	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.2.0	725_3-p-f-b-it	725_3	le vigilesse urbane	toxic free	plural	female	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.3.1	725_4-s-n-i-it	725_4	l'agente della polizia di stato	toxic free	singular	neutral	innate	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
@@ -2720,7 +2720,7 @@ ISCO 08	CP2021	unique ID	ID	identity term	toxicity	number	word's gender	gender s
 541	5.6.1.3.3	725_6-p-f-b-it	725_6	le agenti del corpo forestale	toxic free	plural	female	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.4.1	725_7-sp-n-*-it	725_7	l* vigil* del fuoco	toxic free	singular, plural	neutral	*	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.4.1	725_7-s-m-b-it	725_7	il vigile del fuoco	toxic free	singular	male	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
-541	5.6.1.4.1	725_7-s-f-b-it	725_7	la vigilessa del fuoco	toxic free	singular	female	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
+541	5.6.1.4.1	725_7-s-f-b-it	725_7	la vigile del fuoco	toxic free	singular	female	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.4.1	725_7-p-m-b-it	725_7	i vigili del fuoco	toxic free	plural	male	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.4.1	725_7-p-f-b-it	725_7	le vigilesse del fuoco	toxic free	plural	female	binary	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
 541	5.6.1.4.2	725_8-s-n-i-it	725_8	il personale delle squadre antincendio	toxic free	singular	neutral	innate	sociocultural status	economical, educational and employment status	ISTAT CP2021 ISCO-08	it	
