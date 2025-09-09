@@ -8,7 +8,7 @@ In this work, we carried out an in-depth investigation of gender and occupationa
 <img src="./images/intro-jobs.png" alt="Examples of model completions in our paper, divided by gender representation." width="400"/>
 </div>
 
-In this repo you can find the identity terms and templates we used, the full free-text model generations we obtained, and the >4,500 manually labeled model completions we analyzed in the paper. The data can be found in the **data** folder.
+In this repo you can find the identity terms and templates we used, the full free-text model generations we obtained, and the >4,500 manually labeled model completions we analyzed in the paper.
 
 
 
