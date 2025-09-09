@@ -4,7 +4,10 @@ This repository contains the data release accompanying the paper **"Job Unfair: 
 
 In this work, we carried out an in-depth investigation of gender and occupational biases in English and Italian as expressed by 9 different LLMs (both base and instruction-tuned). Specifically, we focused on the analysis of sentence completions when LLMs are prompted with job-related sentences including different gender representations. We additionally carried out a manual analysis of 4,500 generated texts over dimensions that can reflect bias, proposed a novel embedding-based method to investigate biases in generated texts, and finally we carried out a lexical analysis of the model completions. 
 
+<div align="center">
 <img src="./images/intro-jobs.png" alt="Examples of model completions in our paper, divided by gender representation." width="400"/>
+</div>
+
 In this repo you can find the identity terms and templates we used, the full free-text model generations we obtained, and the >4,500 manually labeled model completions we analyzed in the paper. The data can be found in the **data** folder.
 
 
