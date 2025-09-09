@@ -26,7 +26,9 @@ All files are in TSV format.
 
 
 ## Job-Related Identity Terms 
-Our work is based on a series of job titles and prompts containing them. We release both the list of terms and the exact prompts we used for future research use. These can be found in the **job-titles** and **prompt-templates** folders.
+Our work is based on a series of job titles and prompts containing them. The database of job titles is based on the 2008 International Standard Classification of Occupations (ISCO-08), the current standard employed by the International Labour Organization. Details about ISCO can be found [at this link](https://www.ilo.org/public/english/bureau/stat/isco/isco08/index.htm). The Italian job titles database is derived from CP2021 by ISTAT, available [at this link](https://www.istat.it/classificazione/classificazione-delle-professioni/).
+
+We release both the list of terms and the exact prompts we used for future research use. These can be found in the **job-titles** and **prompt-templates** folders.
 
 ## Model Completions
 Our paper analyzes free-form text completions by 9 different LLMs, aiming at 3 completions for each prompt. We release all of the generated texts in the **model-completions** folder.
