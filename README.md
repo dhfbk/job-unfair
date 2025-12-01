@@ -40,5 +40,23 @@ We manually annotated around 4,500 model completions according to various axes. 
 
 
 ## Citation
-
-Coming soon!
+@inproceedings{casula-etal-2025-job,
+    title = "Job Unfair: An Investigation of Gender and Occupational Bias in Free-Form Text Completions by {LLM}s",
+    author = "Casula, Camilla  and
+      Vecellio Salto, Sebastiano  and
+      Leonardelli, Elisa  and
+      Tonelli, Sara",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1159/",
+    doi = "10.18653/v1/2025.emnlp-main.1159",
+    pages = "22770--22788",
+    ISBN = "979-8-89176-332-6"
+}
