@@ -40,6 +40,7 @@ We manually annotated around 4,500 model completions according to various axes. 
 
 
 ## Citation
+```
 @inproceedings{casula-etal-2025-job,
     title = "Job Unfair: An Investigation of Gender and Occupational Bias in Free-Form Text Completions by {LLM}s",
     author = "Casula, Camilla  and
@@ -60,3 +61,4 @@ We manually annotated around 4,500 model completions according to various axes. 
     pages = "22770--22788",
     ISBN = "979-8-89176-332-6"
 }
+```
